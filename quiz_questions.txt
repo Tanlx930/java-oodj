@@ -1,0 +1,4 @@
+//Format: LecturerID|Module|AssessmentType|Question|Option A|Option B|Option C|Option D|Answer
+5|ARS|Quiz|Yes or No|Yes|Maybe|No|Maybe Yes?|A
+5|DTIN|Quiz|How am I|Good|Bad|Neutral|Very Good|C
+5|DTIN|Quiz|1+1|5|3|1|2|D

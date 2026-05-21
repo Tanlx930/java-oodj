@@ -1,0 +1,3 @@
+//Format: LecturerID|Module|AssessmentType|Max Marks|Weightage
+5|ARS|Quiz|100|20.0
+5|DTIN|Quiz|100|10.0

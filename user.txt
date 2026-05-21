@@ -1,0 +1,23 @@
+id,username,password,name,gender,email,phone,age,role,leaderId
+1,admin,admin,admin1,male,admin@gmail.com,0123456789,99,admin,-1
+2,leader1,leader,leader1,male,leader@gmail.com,0123456789,20,academicLeader,-1
+3,leader2,pass123,Alice Wong,female,alice@gmail.com,0123456001,35,academicLeader,-1
+4,leader3,pass123,Bob Tan,male,bob@gmail.com,0123456002,40,academicLeader,-1
+5,lecturer1,pass123,David Lee,male,david@gmail.com,0123456004,25,lecturer,3
+6,lecturer2,pass123,Eva Green,female,eva@gmail.com,0123456005,26,lecturer,4
+7,lecturer3,pass123,Frank Low,male,frank@gmail.com,0123456006,27,lecturer,2
+8,lecturer4,pass123,Grace Ng,female,grace@gmail.com,0123456007,25,lecturer,2
+9,lecturer5,pass123,Henry Koh,male,henry@gmail.com,0123456008,28,lecturer,-1
+10,lecturer6,pass123,Ivy Chen,female,ivy@gmail.com,0123456009,24,lecturer,-1
+11,lecturer7,pass123,Jack Sim,male,jack@gmail.com,0123456010,29,lecturer,-1
+12,lecturer8,pass123,Kelly Ho,female,kelly@gmail.com,0123456011,26,lecturer,-1
+13,lecturer9,pass123,Leo Das,male,leo@gmail.com,0123456012,27,lecturer,-1
+14,student1,pass123,Mandy Oh,female,mandy@gmail.com,0123456013,19,student,-1
+15,student2,pass123,Nathan Wu,male,nathan@gmail.com,0123456014,20,student,-1
+16,student3,pass123,Oscar Teo,male,oscar@gmail.com,0123456015,19,student,-1
+17,student4,pass123,Penny Lu,female,penny@gmail.com,0123456016,21,student,-1
+18,student5,pass123,Quincy Ma,male,quincy@gmail.com,0123456017,20,student,-1
+19,student6,pass123,Rose Ali,female,rose@gmail.com,0123456018,19,student,-1
+20,student7,pass123,Sam Sng,male,sam@gmail.com,0123456019,22,student,-1
+21,student8,pass123,Tina Tan,female,tina@gmail.com,0123456020,20,student,-1
+22,student9,pass123,Umar Syah,male,umar@gmail.com,0123456021,21,student,-1
